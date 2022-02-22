@@ -8,6 +8,7 @@ using System.Text.RegularExpressions;
 
 class Program {
   public static void Main (string[] args) {
+    Console.WriteLine("hey");
     // Load data files into arrays
     String[] dictionary = System.IO.File.ReadAllLines(@"data-files/dictionary.txt");
     String aliceText = System.IO.File.ReadAllText(@"data-files/AliceInWonderLand.txt");
