@@ -29,5 +29,68 @@ class Program {
     }
   }
 
-  
+  public static void spellCheck(string[] args){
+    while(true){
+      Console.WriteLine(@"Main Menu
+1: Spell Check a Word (Linear Search)
+2: Spell Check a Word (Binary Search)
+3: Spell Check Alice In Wonderland (Linear Search)
+4: Spell Check Alice In Wonderland (Binary Search)
+5: Exit
+");
+      Console.WriteLine("Enter menu selection; ");
+      int userChoice = Convert.ToInt16(Console.ReadLine());
+    }
+  }
+
+  static int linearSearch(int[] anArray, int item){
+      for (int i=0; i < anArray.Length; i++){
+          if (anArray[i] == item){
+              return i;
+          }
+      }
+      return -1;
+  }
+
+  static int linearSearchStr(string[] anArray, string item){
+      for (int i=0; i < anArray.Length; i++){
+          if (String.Equals(anArray[i], item)){
+              return i;
+          }
+      }
+      return -1;
+  }
+  static int binarySearch(int[] anArray, int item){
+            int lower_index = 0;
+            int upper_index = anArray.Length - 1;
+            while (lower_index <= upper_index){
+                int middle_index = (lower_index + upper_index)/2;
+                if(item == anArray[middle_index]){
+                    return middle_index;
+                }else if(item < anArray[middle_index]){
+                    upper_index = middle_index-1;
+                }else{
+                    lower_index = middle_index+1;
+                }
+            }
+            return -1;
+        }
+
+        static int binarySearchStr(string[] anArray, string item){
+            int lower_index = 0;
+            int upper_index = anArray.Length - 1;
+            while (lower_index <= upper_index){
+                int middle_index = (lower_index + upper_index)/2;
+                if(item == anArray[middle_index]){
+                    return middle_index;
+                }else if(string.Compare(item,anArray[middle_index])<0){
+                    upper_index = middle_index-1;
+                }else{
+                    lower_index = middle_index+1;
+                }
+        }
+        return -1;
+        }
 }
+
+  
