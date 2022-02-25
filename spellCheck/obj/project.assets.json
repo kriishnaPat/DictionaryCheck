@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k.patel61\\Desktop\\comsci 30\\spellCheck\\app\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\k.patel61\\Desktop\\comsci 30\\spellCheck\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\k.patel61\\Desktop\\comsci 30\\spellCheck\\spellCheck\\spellCheck.csproj",
+      "projectName": "spellCheck",
+      "projectPath": "C:\\Users\\k.patel61\\Desktop\\comsci 30\\spellCheck\\spellCheck\\spellCheck.csproj",
       "packagesPath": "C:\\Users\\k.patel61\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k.patel61\\Desktop\\comsci 30\\spellCheck\\app\\obj\\",
+      "outputPath": "C:\\Users\\k.patel61\\Desktop\\comsci 30\\spellCheck\\spellCheck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

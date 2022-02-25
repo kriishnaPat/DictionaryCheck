@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\spellCheck.exe
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\spellCheck.deps.json
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\spellCheck.runtimeconfig.json
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\spellCheck.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\spellCheck.dll
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\ref\spellCheck.dll
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\bin\Debug\net5.0\spellCheck.pdb
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.dll
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\ref\spellCheck.dll
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.pdb
+C:\Users\k.patel61\Desktop\comsci 30\spellCheck\spellCheck\obj\Debug\net5.0\spellCheck.genruntimeconfig.cache
